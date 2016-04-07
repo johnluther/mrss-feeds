@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Manual Static</title>
+  <link>https://content.jwplatform.com/previews/8Y6hYv3P-t3NGsJIa</link>
+  <description></description><item>
+    <title>GMC Jimmy</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2015 04:38:54 </pubDate>
+    <guid isPermaLink="false">RSZCtQbI</guid>
+    <enclosure url="//content.jwplatform.com/videos/RSZCtQbI-V1ROyzwJ.mp4" length="70" type="video/mp4" />
+    <itunes:duration>70</itunes:duration>
+    <media:content url="//content.jwplatform.com/videos/RSZCtQbI-V1ROyzwJ.mp4" type="video/mp4" duration="70" fileSize="4323170">
+      <media:thumbnail url="//content.jwplatform.com/thumbs/RSZCtQbI-720.jpg" />
+    </media:content>
+   <carolynsVideoTitle customid="RSZCtQbI">GMC Jimmy</carolynsVideoTitle>
+  </item><item>
+    <title>OTT Experience</title>
+    <description></description>
+    <pubDate>Tue, 09 Feb 2016 15:40:56 </pubDate>
+    <guid isPermaLink="false">5lwPWwg0</guid>
+    <enclosure url="//content.jwplatform.com/videos/5lwPWwg0-QuCulnPG.mp4" length="38" type="video/mp4" />
+    <itunes:duration>38</itunes:duration>
+    <media:content url="//content.jwplatform.com/videos/5lwPWwg0-QuCulnPG.mp4" type="video/mp4" duration="38" fileSize="4323170">
+      <media:thumbnail url="//content.jwplatform.com/thumbs/5lwPWwg0-720.jpg" />
+    </media:content>
+   <carolynsVideoTitle customid="5lwPWwg0">OTT Experience</carolynsVideoTitle>
+  </item><item>
+    <title>IMG_0039.MOV</title>
+    <description></description>
+    <pubDate>Sun, 06 Mar 2016 18:57:05 </pubDate>
+    <guid isPermaLink="false">XiC2ebdR</guid>
+    <enclosure url="//content.jwplatform.com/videos/XiC2ebdR-I2BAHLif.mp4" length="67" type="video/mp4" />
+    <itunes:duration>67</itunes:duration>
+    <media:content url="//content.jwplatform.com/videos/XiC2ebdR-I2BAHLif.mp4" type="video/mp4" duration="67" fileSize="4323170">
+      <media:thumbnail url="//content.jwplatform.com/thumbs/XiC2ebdR-720.jpg" />
+    </media:content>
+   <carolynsVideoTitle customid="XiC2ebdR">IMG_0039.MOV</carolynsVideoTitle>
+  </item><item>
+    <title>IMG_0039.MOV</title>
+    <description></description>
+    <pubDate>Sun, 06 Mar 2016 18:57:05 </pubDate>
+    <guid isPermaLink="false">XiC2ebdR</guid>
+    <enclosure url="//content.jwplatform.com/videos/XiC2ebdR-I2BAHLif.mp4" length="67" type="video/mp4" />
+    <itunes:duration>67</itunes:duration>
+    <media:content url="//content.jwplatform.com/videos/XiC2ebdR-I2BAHLif.mp4" type="video/mp4" duration="67" fileSize="4323170">
+      <media:thumbnail url="//content.jwplatform.com/thumbs/XiC2ebdR-720.jpg" />
+    </media:content>
+   <carolynsVideoTitle customid="XiC2ebdR">IMG_0039.MOV</carolynsVideoTitle>
+  </item><item>
+    <title>IMG_0036.MOV</title>
+    <description></description>
+    <pubDate>Sun, 06 Mar 2016 18:55:18 </pubDate>
+    <guid isPermaLink="false">JFwZUiEM</guid>
+    <enclosure url="//content.jwplatform.com/videos/JFwZUiEM-I2BAHLif.mp4" length="64" type="video/mp4" />
+    <itunes:duration>64</itunes:duration>
+    <media:content url="//content.jwplatform.com/videos/JFwZUiEM-I2BAHLif.mp4" type="video/mp4" duration="64" fileSize="4323170">
+      <media:thumbnail url="//content.jwplatform.com/thumbs/JFwZUiEM-720.jpg" />
+    </media:content>
+   <carolynsVideoTitle customid="JFwZUiEM">IMG_0036.MOV</carolynsVideoTitle>
+  </item><item>
+    <title>OTT Experience</title>
+    <description></description>
+    <pubDate>Tue, 09 Feb 2016 15:40:56 </pubDate>
+    <guid isPermaLink="false">rZmCRBGf</guid>
+    <enclosure url="//content.jwplatform.com/videos/rZmCRBGf-QuCulnPG.mp4" length="38" type="video/mp4" />
+    <itunes:duration>38</itunes:duration>
+    <media:content url="//content.jwplatform.com/videos/rZmCRBGf-QuCulnPG.mp4" type="video/mp4" duration="38" fileSize="4323170">
+      <media:thumbnail url="//content.jwplatform.com/thumbs/rZmCRBGf-720.jpg" />
+    </media:content>
+   <carolynsVideoTitle customid="rZmCRBGf">OTT Experience</carolynsVideoTitle>
+  </item></channel>
+</rss>
