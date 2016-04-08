@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Playlist title</title>
+  <link>Playlist_link</link>
+  <description>Playlist description (not item description)</description>
+  <item>
+    <title>{{item.title}}</title>
+    <link>{{item.link}}</link>
+    <description>{{item.description}}</description>
+    <pubDate>{{item.date_rss}}</pubDate>
+    <guid isPermaLink="false">{{item.key}}</guid>
+    <media:content url="//content.jwplatform.com/manifests/{{item.key}}.m3u8" type="application/vnd.apple.mpegurl" duration="{{item.duration}}">
+      <media:category>{{item.tags}}</media:category>
+      <media:title>{{item.title}}</media:title>
+      <media:description>{{item.description}}</media:description>
+      <media:thumbnail url="{{item.image}}"/>
+      <media:keywords>{{item.tags}}</media:keywords>
+    </media:content>
+  </item>
+  </channel>
+</rss>

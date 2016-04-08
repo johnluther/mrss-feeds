@@ -47,7 +47,7 @@ def tool():
 @crossdomain(origin='*')
 @app.route('/dummy.rss')
 def dummy():
-    return Response(render_template('dummy.xml'), mimetype='application/rss+xml'), 200
+    return Response(render_template('roku_template.xml'), mimetype='application/rss+xml'), 200
 
 # aovxTElR
 @crossdomain(origin='*')

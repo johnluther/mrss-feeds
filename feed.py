@@ -39,7 +39,7 @@ def parse(json={}):
 	clean['items'] = items
 	return clean
 
-def toXML(json={}, template_name='standard.xml'):
+def toXML(json={}, template_name='roku_template.xml'):
 	try:
 		rendered = render_template(template_name, name='Cooper', items=json.get('items'))
 	except:

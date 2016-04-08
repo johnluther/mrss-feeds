@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   {% if items|length > 1 %}
 
@@ -13,7 +13,6 @@
       <title>{{ items[0].title }}</title>
       <link>{{ items[0].link }}</link>
     </image>
-    <itunes:image href="{{ items[0].image }}" />
 
   {% endif %}
   
@@ -26,8 +25,7 @@
     <pubDate>{{ item.date }}</pubDate>
     <guid isPermaLink="false">l4MJuo7l</guid>
     <enclosure url="{{ item.mediaurl }}" length="{{ item.duration }}" type="video/mp4" />
-    <itunes:duration>18</itunes:duration>
-    <media:content url="{{ item.mediaurl }}" type="video/mp4" duration="{{ item.duration }}" fileSize="5943066">
+    <media:content url="https://content.jwplatform.com/manifests/{{ item.key }}.m3u8" type="video/mp4" duration="{{ item.duration }}" fileSize="5943066">
       <media:thumbnail url="{{ item.image }}" />
     </media:content>
   </item>
